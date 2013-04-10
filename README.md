@@ -7,6 +7,7 @@ My examples inspired by the presentations of the On Dart [Web Programming] (http
 
 **Start**:
 Clone the project and open one of folders with Dart Editor. 
+This project leverages DOM and HTML5.
 
 
 
